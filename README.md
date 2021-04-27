@@ -15,11 +15,11 @@
 <p>
 	<font size=12>
 		<pre>
-			* Transfer any file. *.jpg *.exe *.png *.txt *.py *.cs *.cpp, every file, except bytes of text that can be deciphered by end user.
-			* Accept any file.
-			* Type of work is: client-server and server-client, chose whatever you need.
-			* Logger, also file logging.
-			* Every line is commented. In most.
+	* Transfer any file. *.jpg *.exe *.png *.txt *.py *.cs *.cpp, every file, except bytes of text that can be deciphered by end user.
+	* Accept any file.
+	* Type of work is: client-server and server-client, chose whatever you need.
+	* Logger, also file logging.
+	* Every line is commented. In most.
 		</pre>
 	</font>
 </p>
