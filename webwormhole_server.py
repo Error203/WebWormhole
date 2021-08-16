@@ -168,6 +168,6 @@ class Server:
 
 # test area
 if __name__ == '__main__':
-	server = Server(argv[1], argv[2], 5)
+	server = Server(argv[1], int(argv[2]), 5)
 	server.run()
 	server.send_file("hWsCrCvkJKUFj.jpg")
